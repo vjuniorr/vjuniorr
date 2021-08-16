@@ -1,4 +1,4 @@
-### Hi there 👋
+# Valdemi Junior <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">
 
 <!--
 **vjuniorr/vjuniorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
